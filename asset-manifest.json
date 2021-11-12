@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/practicasis_react/static/css/main.0125a47d.chunk.css",
+    "main.js": "/practicasis_react/static/js/main.95cf4b1a.chunk.js",
+    "main.js.map": "/practicasis_react/static/js/main.95cf4b1a.chunk.js.map",
+    "runtime-main.js": "/practicasis_react/static/js/runtime-main.9cbb79f5.js",
+    "runtime-main.js.map": "/practicasis_react/static/js/runtime-main.9cbb79f5.js.map",
+    "static/css/2.c1256375.chunk.css": "/practicasis_react/static/css/2.c1256375.chunk.css",
+    "static/js/2.d049dca5.chunk.js": "/practicasis_react/static/js/2.d049dca5.chunk.js",
+    "static/js/2.d049dca5.chunk.js.map": "/practicasis_react/static/js/2.d049dca5.chunk.js.map",
+    "static/js/3.229c597a.chunk.js": "/practicasis_react/static/js/3.229c597a.chunk.js",
+    "static/js/3.229c597a.chunk.js.map": "/practicasis_react/static/js/3.229c597a.chunk.js.map",
+    "index.html": "/practicasis_react/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/practicasis_react/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.0125a47d.chunk.css.map": "/practicasis_react/static/css/main.0125a47d.chunk.css.map",
+    "static/js/2.d049dca5.chunk.js.LICENSE.txt": "/practicasis_react/static/js/2.d049dca5.chunk.js.LICENSE.txt",
+    "static/media/perrito.592e73c6.png": "/practicasis_react/static/media/perrito.592e73c6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cbb79f5.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.d049dca5.chunk.js",
+    "static/css/main.0125a47d.chunk.css",
+    "static/js/main.95cf4b1a.chunk.js"
+  ]
+}
