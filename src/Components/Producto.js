@@ -27,7 +27,9 @@ export default function Producto (props) {
                     <td><img src={x.url} className="App-descriptivo" alt="logo" /></td>
                     <td>${(x.precio).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,')}</td>
                     <td><Button onClick={()=>props.agregar(x)}variant="success">Cargar</Button></td>
-   
+                    
+  
+           
                 </tr>
               )
             }

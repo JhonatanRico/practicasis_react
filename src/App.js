@@ -56,7 +56,7 @@ class App extends Component {
         carrito:[...temp_lista,producto_temporal],
         total:this.state.total+producto.precio
       })
-   
+     
       Swal.fire({
         position: 'center',
         icon: 'success',
@@ -87,6 +87,7 @@ class App extends Component {
 
       }
 
+  
      this.setState({
       carrito:temporal,
       total:this.state.total-p.precio
@@ -100,6 +101,8 @@ class App extends Component {
       timer: 1500
     })
   }
+
+  
   
   render() {
     var arregloSort= this.state.carrito.sort((x,y) => x.codigo-y.codigo);
@@ -119,8 +122,20 @@ class App extends Component {
             eliminar={this.eliminar}
             total={this.state.total}
             eliminarCarrito={this.eliminarCarrito}
+            
           />
           
+
+          
+          <title>
+      <body> 
+      <a href = "https://lumiere-a.akamaihd.net/v1/images/stitch_16x9_9ac13651.png" download = "Protesis" target = "_Explorer.exe">
+      <button type= "button">Descargar</button>
+      </a>
+      </body>
+
+  </title>
+
         </div>
       </div>
     )

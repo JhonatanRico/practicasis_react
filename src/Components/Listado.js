@@ -1,6 +1,7 @@
 import '../App.css';
 import { Button, Table } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Powder from '../Pata-Pastor.rar'
 
 const Listado = (props) => {
     return ( 
@@ -38,8 +39,12 @@ const Listado = (props) => {
                     <td>{x.descripcion}</td>
                     <td>{(x.precio).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,')}</td>
                     <td>{(x.cantidad*x.precio).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,')}</td>
-                    <td><Button onClick={()=>props.eliminar(x,index)}variant="danger">Descargar</Button></td>
-                    
+                    <td><Button onClick={()=>props.eliminar(x,index)}variant="danger">Eliminar</Button></td>
+                    <a href={Powder} 
+                    download="Protesis.rar">
+                    <Button>Descarga</Button>
+</a>
+
                 </tr>
               )
             }
