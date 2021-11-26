@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/practicasis_react/static/css/main.0125a47d.chunk.css",
-    "main.js": "/practicasis_react/static/js/main.092aff99.chunk.js",
-    "main.js.map": "/practicasis_react/static/js/main.092aff99.chunk.js.map",
+    "main.css": "/practicasis_react/static/css/main.b75308be.chunk.css",
+    "main.js": "/practicasis_react/static/js/main.b2a3af44.chunk.js",
+    "main.js.map": "/practicasis_react/static/js/main.b2a3af44.chunk.js.map",
     "runtime-main.js": "/practicasis_react/static/js/runtime-main.498513e5.js",
     "runtime-main.js.map": "/practicasis_react/static/js/runtime-main.498513e5.js.map",
     "static/css/2.c1256375.chunk.css": "/practicasis_react/static/css/2.c1256375.chunk.css",
@@ -12,16 +12,16 @@
     "static/js/3.c82352b0.chunk.js.map": "/practicasis_react/static/js/3.c82352b0.chunk.js.map",
     "index.html": "/practicasis_react/index.html",
     "static/css/2.c1256375.chunk.css.map": "/practicasis_react/static/css/2.c1256375.chunk.css.map",
-    "static/css/main.0125a47d.chunk.css.map": "/practicasis_react/static/css/main.0125a47d.chunk.css.map",
+    "static/css/main.b75308be.chunk.css.map": "/practicasis_react/static/css/main.b75308be.chunk.css.map",
     "static/js/2.65af7ff7.chunk.js.LICENSE.txt": "/practicasis_react/static/js/2.65af7ff7.chunk.js.LICENSE.txt",
     "static/media/Pata-Pastor.c08a7e70.rar": "/practicasis_react/static/media/Pata-Pastor.c08a7e70.rar",
-    "static/media/perrito.592e73c6.png": "/practicasis_react/static/media/perrito.592e73c6.png"
+    "static/media/perrito.3f83a911.png": "/practicasis_react/static/media/perrito.3f83a911.png"
   },
   "entrypoints": [
     "static/js/runtime-main.498513e5.js",
     "static/css/2.c1256375.chunk.css",
     "static/js/2.65af7ff7.chunk.js",
-    "static/css/main.0125a47d.chunk.css",
-    "static/js/main.092aff99.chunk.js"
+    "static/css/main.b75308be.chunk.css",
+    "static/js/main.b2a3af44.chunk.js"
   ]
 }
