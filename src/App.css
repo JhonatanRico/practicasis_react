@@ -9,7 +9,7 @@
 }
 
 .App-header {
-  background-color: #010e43;
+  background-color: #a3e5b7;
   min-height: 25vh;
   display: flex;
   flex-direction: column;
@@ -24,7 +24,7 @@
   flex-direction:row;
   justify-content: center;
   flex-wrap: wrap;
-  font-size: calc(1px + 1vmin);
+  font-size: calc(10px + 1vmin);
 }
 
 .App-listado {
@@ -32,7 +32,7 @@
   flex-direction:row;
   justify-content: center;
   flex-wrap: wrap;
-  font-size: calc(1px + 1vmin);
+  font-size: calc(10px + 1vmin);
 }
 
 .App-celdas{
